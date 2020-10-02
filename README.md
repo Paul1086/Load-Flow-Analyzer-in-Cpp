@@ -13,9 +13,9 @@ The analyzer takes system's known information such as bus admittance matrix, bus
 
 To enter a complex value for the elements of a admittance matrix, or the power of a node, or the node voltage when asked; enter the data in the rectangular format- " a + i*b ", where a is the real part and b is the imaginary part of the complex number. Enter the data of this complex value in the following format:
 
-   a b
+   a   b
 
-(seperating the real and imaginary values by a space)
+(seperating the real and imaginary part by a space)
 
 For example, when asked to enter the admittance between any nodes, 
 
