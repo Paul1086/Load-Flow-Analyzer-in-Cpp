@@ -9,9 +9,9 @@ In this project, Object-oriented Programming (OOP) concepts such as class, objec
 
 The analyzer takes system's known information such as bus admittance matrix, bus parameters- real power P, reactive power Q, and voltage at each nodes. The analyzer solves the load flow problem and provides outputs such as voltage magnitude and angle, real and reactive power, and power losses for each node.
 
-# Program Input:
+# Handling Complex Numbers:
 
-To enter a complex value for the admittance matrix element between nodes or the power of a node or the node voltage when asked; enter the data in the following rectangular format- " a + i*b " where a is the real part and b is the imaginary part of the complex number. Enter the data of this complex value in the following format:
+To enter a complex value for the elements of a admittance matrix, or the power of a node, or the node voltage when asked; enter the data in the rectangular format- " a + i*b ", where a is the real part and b is the imaginary part of the complex number. Enter the data of this complex value in the following format:
 
    a b
 
