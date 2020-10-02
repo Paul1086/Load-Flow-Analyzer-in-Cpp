@@ -11,7 +11,7 @@ The analyzer takes system's known information such as bus admittance matrix, bus
 
 # Handling Complex Numbers
 
-To enter a complex value for the elements of a admittance matrix, or the power of a node, or the node voltage when asked; enter the data in the rectangular format- " a + i*b ", where a is the real part and b is the imaginary part of the complex number. Enter the data of this complex value in the following format:
+To enter a complex value for the elements of an admittance matrix, or the power of a node, or the node voltage when asked; enter the data in the rectangular format- " a + i*b ", where a is the real part and b is the imaginary part of the complex number. Enter the data of this complex value in the following format:
 
    a   b
 
@@ -21,4 +21,4 @@ For example, when asked to enter the admittance between any nodes,
 
 Enter the admittance between nodes 1 and 2: 2 -3
 
-Here, the value for Y12 was 2-j*3, where the real part was 2 and imaginary part was -3.  
+Here, the value for Y12 was 2-j*3, where the real part was 2 and imaginary part was -3. Same rule goes for the  
