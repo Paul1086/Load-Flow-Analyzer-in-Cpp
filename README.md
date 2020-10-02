@@ -19,6 +19,6 @@ To enter a complex value for the elements of a admittance matrix, or the power o
 
 For example, when asked to enter the admittance between any nodes, 
 
-Enter the admisstance between nodes 1 and 2: 2 -3
+Enter the admittance between nodes 1 and 2: 2 -3
 
-Here, the value for Y12 was 2-j*3, where the real part was 2 and reactive part was -3.  
+Here, the value for Y12 was 2-j*3, where the real part was 2 and imaginary part was -3.  
